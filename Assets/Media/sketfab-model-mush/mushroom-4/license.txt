@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tree with mushrooms (highres)
+* source:	https://sketchfab.com/3d-models/tree-with-mushrooms-highres-8d8d5b9bb14944a5bf8d20c52695e3ea
+* author:	nedo (https://sketchfab.com/nedo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tree with mushrooms (highres)" (https://sketchfab.com/3d-models/tree-with-mushrooms-highres-8d8d5b9bb14944a5bf8d20c52695e3ea) by nedo (https://sketchfab.com/nedo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
