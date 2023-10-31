@@ -24,5 +24,9 @@ MonoBehaviour:
   - Path: Assets/Materials/Flat Textures Pack/Demo/Demo.unity
     Projects: []
     BuilderScene: 
+  - Path: Assets/Scenes/NPC.unity
+    Projects:
+    - ProjectPath: Needle/CollaborativeSandbox
+    BuilderScene: 
   Projects:
   - ProjectPath: Needle/CollaborativeSandbox
