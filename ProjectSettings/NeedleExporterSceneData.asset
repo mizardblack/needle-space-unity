@@ -30,7 +30,8 @@ MonoBehaviour:
     BuilderScene: 
   - Path: Assets/Scenes/Creature.unity
     Projects:
-    - ProjectPath: Needle/CollaborativeSandbox
+    - ProjectPath: Needle/Creature
     BuilderScene: 
   Projects:
   - ProjectPath: Needle/CollaborativeSandbox
+  - ProjectPath: Needle/Creature

@@ -608,7 +608,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 986a3a93ac16ec0428d8989979ec0966, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Needle.Engine.ExportInfo, Needle.Engine.Common $ GlobalObjectId_V1-2-d541a43e59ef6e94b8483da1bfc954ea-784234923-0
-  DirectoryName: Needle/CollaborativeSandbox
+  DirectoryName: Needle/Creature
   RemoteUrl: 
   AutoExport: 1
   Dependencies: []
@@ -1397,6 +1397,7 @@ GameObject:
   - component: {fileID: 1474410802}
   - component: {fileID: 1474410801}
   - component: {fileID: 1474410800}
+  - component: {fileID: 1474410803}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1486,6 +1487,18 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &1474410803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1474410798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dbed295924245ab9fc25c3df3bcff02, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1597275517
 GameObject:
   m_ObjectHideFlags: 0
@@ -1624,14 +1637,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1609064305}
-  m_LocalRotation: {x: 0.40167108, y: -0.23537974, z: 0.1076274, w: 0.8784493}
-  m_LocalPosition: {x: 2.78, y: 4.23, z: -4.81}
+  m_LocalRotation: {x: 0.35312888, y: -0.3033863, z: 0.2629138, w: 0.8450639}
+  m_LocalPosition: {x: 6.95, y: 10.97, z: -6.87}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 969208505}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 49.144, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 49.144, y: -30, z: 20.594}
 --- !u!1 &1786657968
 GameObject:
   m_ObjectHideFlags: 0
